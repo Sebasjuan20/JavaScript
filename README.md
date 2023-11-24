@@ -1,2 +1,2 @@
-# JavaScript
+paginaResponsive
 mi trabajo
